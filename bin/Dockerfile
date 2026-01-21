@@ -1,5 +1,5 @@
 # Gunakan container PHP dan Apache dengan versi 8.1.30
-FROM php:8.1.30-apache
+FROM php:8.5.2-apache
 
 # Instal dependensi sistem dan ekstensi PHP
 # gd: Memerlukan libpng-dev, libjpeg-dev, libfreetype6-dev
